@@ -17,7 +17,8 @@
 - etc.
 
 ## 💻 Current project
-- [Maps-More](https://github.com/amit8899/Maps-More-)
+- <a href="https://github.com/amit8899/Maps-More-"> Maps-More </a>
+
 
 ## 🎵 Spotify status
 
