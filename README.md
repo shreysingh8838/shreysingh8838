@@ -16,8 +16,7 @@
 - Cricket
 - etc.
 
-## 💻 Current project
-- <a href="https://github.com/amit8899/Maps-More-"> Maps-More </a>
+## 💻 Current project - <a href="https://github.com/amit8899/Maps-More-"> Maps-More </a>
 
 
 ## 🎵 Spotify status
@@ -26,7 +25,7 @@
   <img src="https://github.com/shreysingh8838/shreysingh8838/blob/main/Uptown%20funk%20lyrics.jpg" width="441" height="271" alt="Now Playing">
 </a>
 
-
+##
 <details>
   <summary>:zap: GitHub Stats</summary>
 
