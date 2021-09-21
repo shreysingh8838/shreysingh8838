@@ -8,10 +8,10 @@
 - Algorithms
 - Database
 
-## 📅 Hobbies
-- Solve programming problems at Codeforce, LeetCode
-- Watch Documentries
-- Play videogames
+## 📅 Love
+- Solving problems at LeetCode, SPOJ
+- Watching Documentries
+- Boxing
 - Acting
 - Cricket
 - etc.
