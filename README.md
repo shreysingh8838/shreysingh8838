@@ -22,7 +22,7 @@
 ## 🎵 Spotify status
 
 <a href="https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS?si=29ea9cec734a49da">
-  <img src="https://github.com/shreysingh8838/shreysingh8838/blob/main/Uptown%20funk%20lyrics.jpg" width="241" height="271" alt="Now Playing">
+  <img src="https://github.com/shreysingh8838/shreysingh8838/blob/main/Uptown%20funk%20lyrics.jpg" width="441" height="271" alt="Now Playing">
 </a>
 
 
@@ -37,12 +37,10 @@
 
 [website]: https://shreysingh8838.github.io/Portfolio-Shrey/
 [instagram]: https://www.instagram.com/shrey._thakur/
-[youtube] : https://www.youtube.com/channel/UCIZkG5XR5iYLMU8pJCCl-6A
 [linkedin]: https://www.linkedin.com/in/shrey-singh-978847178/
 
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [youtube]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
