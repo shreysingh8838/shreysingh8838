@@ -22,7 +22,7 @@
 ## 🎵 Spotify status
 
 <a href="https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS?si=29ea9cec734a49da">
-  <img src="https://github.com/shreysingh8838/shreysingh8838/blob/main/Uptown%20funk%20lyrics.jpg" width="200" height="200" alt="Now Playing">
+  <img src="https://github.com/shreysingh8838/shreysingh8838/blob/main/Uptown%20funk%20lyrics.jpg" width="250" height="200" alt="Now Playing">
 </a>
 
 ##
