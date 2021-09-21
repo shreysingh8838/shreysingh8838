@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <h1 align="center">Hi 👋, I'm Shrey Singh</h1>
 <h3 align="center">A Computer Science Student from India</h3>
@@ -17,14 +17,13 @@
 - etc.
 
 ## 💻 Current project
-- [Financial Go](https://github.com/Jvillegasd/FinancialGo)
+- [Maps-More](https://github.com/amit8899/Maps-More-)
 
 ## 🎵 Spotify status
 
 <a href="https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS?si=29ea9cec734a49da">
-  <img src="https://github.com/shreysingh8838/shreysingh8838/blob/main/Uptown%20funk%20lyrics.jpg" width="341" height="571" alt="Now Playing">
+  <img src="https://github.com/shreysingh8838/shreysingh8838/blob/main/Uptown%20funk%20lyrics.jpg" width="241" height="271" alt="Now Playing">
 </a>
-
 
 <!--
 **shreysingh8838/shreysingh8838** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
