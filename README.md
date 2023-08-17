@@ -16,7 +16,7 @@
 - Cricket
 - etc.
 
-## 💻 Current project - <a href="https://github.com/amit8899/Maps-More-"> Maps-More </a>
+## 💻 Current project - <a href="https://github.com/shreysingh8838/Angular_snportal"> Milegi Sarkari Naukri </a>
 
 
 ## 🎵 Spotify status - <a href="https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS?si=29ea9cec734a49da">
